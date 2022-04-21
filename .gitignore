@@ -7,6 +7,9 @@ temp/
 coverage
 ormconfig.json
 dist
+.eslintignore
+.eslintrc
+.editorconfig
 
 uploads/*
 !uploads/.gitkeep
